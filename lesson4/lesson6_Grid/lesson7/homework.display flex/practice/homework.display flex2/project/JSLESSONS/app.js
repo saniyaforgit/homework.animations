@@ -159,13 +159,13 @@
 //     max=num3
 // }
 
-// alert("Самое большое число:"+max)
+// // alert("Самое большое число:"+max)
 
-let login = prompt("Введите логин:")
-let password= prompt("Введите пароль:")
+// let login = prompt("Введите логин:")
+// let password= prompt("Введите пароль:")
 
-if(login ==="admin" && password==="1234"){
-    alert("Добро пожаловать")
-}else{
-    alert("Ошибка")
-}
+// if(login ==="admin" && password==="1234"){
+//     alert("Добро пожаловать")
+// }else{
+//     alert("Ошибка")
+// }
